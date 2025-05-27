@@ -1,8 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=clash+display&weight=500&size=32&pause=1000&color=7520F7&center=true&width=435&lines=Hey%2C+I'm+Uzair+%F0%9F%91%8B!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=clash+display&weight=500&size=32&pause=1000&color=7520F7&center=true&width=435&lines=Hey%2C+I'm+Uzair+%F0%9F%91%8B!" alt="Typing SVG" />
+  </a>
+</p>
+
 <!--
 You can create your typing SVG here: https://readme-typing-svg.demolab.com/demo/ 
 -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=uxam285&color=blue)
 [![wakatime](https://wakatime.com/badge/user/5f2c84b8-3c28-428a-920a-47fa511ca5b1.svg)](https://wakatime.com/@5f2c84b8-3c28-428a-920a-47fa511ca5b1)
