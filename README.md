@@ -24,7 +24,7 @@ You can create your typing SVG here: https://readme-typing-svg.demolab.com/demo/
 
 ## About Me
 
-👋 Hi, I'm Uzair — a software engineer passionate about crafting efficient web applications and data-driven solutions.
+### 👋 Hi, I'm Uzair — a software engineer passionate about crafting efficient web applications and data-driven solutions.
 
 🚀 Currently exploring AI/ML and Generative AI technologies.
 
