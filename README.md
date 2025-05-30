@@ -32,7 +32,7 @@ You can create your typing SVG here: https://readme-typing-svg.demolab.com/demo/
 
 📊 Experienced with Python automation, API testing (Postman), Docker, GitHub Actions, Figma, Tailwind CSS, and frontend frameworks.
 
-🌐 Portfolio: linkedin.com/in/muhammad-uzair-459a63219
+<!--🌐 Portfolio: -->
 
 📫 Reach out: uzair.buis@gmail.com
 
@@ -42,18 +42,3 @@ You can create your typing SVG here: https://readme-typing-svg.demolab.com/demo/
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,react,vue,nextjs,express,fastapi,nodejs,mongodb,mysql,postman,firebase,bash,md,docker,git,githubactions,cloudflare,tailwind,vscode,figma,&perline=10)](https://skillicons.dev)
 
-
-<!--
-**uxam285/uxam285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
